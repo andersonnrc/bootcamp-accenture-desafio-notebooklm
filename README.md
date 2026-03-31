@@ -19,6 +19,8 @@
 * Entender como os Smart Contracts eliminam intermediários no mundo real.
 * Praticar a engenharia de prompts estruturados para evitar alucinações da IA e gerar resumos confiáveis.
 
+---
+
 ## 📚 Curadoria de Fontes
 
 **Critério de Seleção:** Foram escolhidas 5 fontes de altíssima autoridade para alimentar o NotebookLM, garantindo respostas precisas e com embasamento técnico, mercadológico e acadêmico.
@@ -29,6 +31,8 @@
 * **Microsoft - Beginners Series to Blockchain:** Conteúdo didático focado em conceitos introdutórios e amigáveis.
 * **Binance Academy:** Explicações didáticas sobre o funcionamento prático do ecossistema cripto.
 * **KriptoBR - Smart Contracts: Usos e Limitações no Mundo Real:** Artigo aprofundado sobre contratos inteligentes, rede Ethereum, casos de uso (como DeFi) e os desafios de implementação.
+
+---
 
 ## 🛠️ Engenharia de Prompts e "Cicatrizes"
 
@@ -55,6 +59,8 @@
 ### Tentativa 4: Extração de Dados Específicos
 * **Prompt Testado:** "De acordo APENAS com o documento do NIST (IR 8202), liste em bullet points os componentes fundamentais de uma arquitetura blockchain."
 * **Resultado Obtido:** Precisão absoluta na listagem de componentes técnicos, sem misturar com os materiais de marketing das outras fontes.
+
+---
 
 ## 📖 Miniguia de Estudo (Entrega Final)
 
@@ -88,6 +94,8 @@
 * **Para testar conceitos técnicos:** "Gere 5 perguntas de múltipla escolha baseadas nas definições do documento do NIST para testar meu conhecimento sobre hashes e blocos."
 * **Para comparar aplicações:** "Resuma as diferenças entre o uso de blockchain para criptomoedas (Binance) e a aplicação de contratos inteligentes no Ethereum (KriptoBR)."
 * **Para aprofundamento específico:** "Explique o que são Finanças Descentralizadas (DeFi) e Oráculos, e como eles se relacionam, criando um FAQ com 3 perguntas e respostas rápidas."
+
+---
 
 ## 🧑‍💼 Contato
 
